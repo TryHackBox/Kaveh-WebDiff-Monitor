@@ -56,4 +56,4 @@ Use Cases in Penetration Testing
 
 License
 
-MIT License – feel free to modify and share.
+MIT License 
