@@ -54,6 +54,4 @@ Use Cases in Penetration Testing
 * For large-scale monitoring, increase `INTERVAL` to reduce load on targets.
 * Requires **Bash** and **curl**.
 
-License
 
-MIT License 
